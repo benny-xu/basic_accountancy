@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "autocover"
+        "autocover",
+        "betterchinese"
     ],
     "pluginsConfig": {}
 }
