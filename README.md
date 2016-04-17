@@ -1,3 +1,3 @@
-# My Awesome Book
+# 会计学基础
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+windvans学习会计学基础的笔记
