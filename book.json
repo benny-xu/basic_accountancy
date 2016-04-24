@@ -2,8 +2,8 @@
     "plugins": [
         "autocover",
         "betterchinese",
-        "-comments",
-        "disqus"
+        "disqus",
+        "comment"
     ],
     "pluginsConfig": {
         "disqus": {
