@@ -5,5 +5,10 @@
         "-comments",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "windvans",
+            "useIdentifier": true
+        }
+    }
 }
