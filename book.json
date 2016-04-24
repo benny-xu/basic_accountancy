@@ -2,7 +2,6 @@
     "plugins": [
         "autocover",
         "betterchinese",
-        "comment",
         "comments"
     ],
     "pluginsConfig": {}
