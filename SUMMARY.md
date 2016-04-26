@@ -7,3 +7,5 @@
   * [会计信息的使用者及其质量要求](chapter1-4.md)
   * [会计准则体系](chapter1-5.md)
 * [会计要素和会计等式](chapter2.md)
+  * [会计要素](chapter2-1.md)
+  * [会计等式](chapter2-2.md)
