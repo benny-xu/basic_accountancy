@@ -9,3 +9,6 @@
 * [会计要素和会计等式](chapter2.md)
   * [会计要素](chapter2-1.md)
   * [会计等式](chapter2-2.md)
+* [会计科目和会计账户](chapter3.md)
+  * [会计科目](chapter3-1.md)
+  * [会计账户](chapter3-2.md)  
